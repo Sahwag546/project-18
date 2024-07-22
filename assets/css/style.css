@@ -401,15 +401,16 @@ padding-right: 1px;
  .col-6-parent{
     margin-top: 30px;
  }
- .card-2{
- position: absolute;
- bottom: 0; 
- left: -10%;
- }
+.card-2{
+    position: absolute;
+    bottom: 0;
+   
+}
  .card{
     margin-left: 30px;
  }
- .img-2{
+.img2{
     position: unset;
- }
+}
+
 }
